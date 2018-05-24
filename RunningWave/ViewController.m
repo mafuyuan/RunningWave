@@ -14,6 +14,7 @@
 {
     WaveView *waveView;
     NSTimer *timer;
+    
 }
 @property (nonatomic,strong)NSMutableArray *array;
 - (IBAction)buttonclick:(id)sender;
